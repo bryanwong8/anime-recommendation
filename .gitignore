@@ -1,3 +1,5 @@
 .DS_Store
 .ipynb_checkpoints/
 Pipfile.lock
+datasets/anime.csv
+datasets/rating.csv
