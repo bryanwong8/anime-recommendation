@@ -1,4 +1,5 @@
 .DS_Store
+.eslintcache
 .vscode/
 .ipynb_checkpoints/
 Pipfile.lock
