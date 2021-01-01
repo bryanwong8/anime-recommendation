@@ -1,5 +1,5 @@
 from flask import Blueprint
-
+from animeBackend.recommend import get_recommendation
 
 blueprint = Blueprint('api', __name__)
 

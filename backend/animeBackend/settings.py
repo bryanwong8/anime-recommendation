@@ -32,7 +32,7 @@ class ProdConfig(Config):
 class DevConfig(Config):
     """Development configuration."""
 
-    ENV = 'dev'
+    FLASK_ENV = 'development'
     DEBUG = True
 
 
