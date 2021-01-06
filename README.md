@@ -6,9 +6,9 @@ Hi, due to Corona virus, I like many other people had too much free time. I spen
 
 This app is meant to give other anime lovers recommendations on what to watch based on their favorite anime. So a user would input an anime title that they liked in a search bar and press enter. Afterwards the application would display a gallery of other anime titles that the user might like. This applications uses a React/Flask stack. Im using React to make a stylish frontend while I am using Flask to handle the data science part of the application. 
 
-# Running the Application
+# 🏃🏻 Running the Application
 
-## Frontend
+## ⚛️ Frontend
 
 `cd` into the `frontend` directory and run the following to install all the packages needed for the project:
 
@@ -24,7 +24,7 @@ npm start
 
 You can now view the app on `http://localhost:3000`
 
-## Backend
+## 🧪 Backend
 
 `cd` into the `backend` directory and run the following:
 
